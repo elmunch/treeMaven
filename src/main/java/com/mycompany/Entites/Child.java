@@ -24,6 +24,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author m.atallah
  */
+
 @Entity
 @Table(name = "CHILD")
 @XmlRootElement
